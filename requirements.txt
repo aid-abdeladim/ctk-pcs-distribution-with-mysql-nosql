@@ -1,0 +1,4 @@
+customtkinter==5.2.2 
+mysql-connector-python==9.0.0 
+pymongo==4.10.1 
+tk==0.1.0 
