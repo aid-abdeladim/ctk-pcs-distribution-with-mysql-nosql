@@ -14,6 +14,11 @@ It tracks hourly performance (**A1–A8**), **NC (Not OK)**, and **Déchet (Wast
 
 ---
 
+### 🖥️ Main Interface
+<img width="1122" height="942" alt="image" src="https://github.com/user-attachments/assets/541db836-f9d7-449e-98a9-da1a0719baf1" />
+
+---
+
 ## ⚙️ Setup
 ```bash
 pip install customtkinter mysql-connector-python pymongo
