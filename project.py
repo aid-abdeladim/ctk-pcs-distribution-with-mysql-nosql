@@ -194,7 +194,7 @@ def on_close():
 
 # ---------- UI SETUP ----------
 app = ctk.CTk()
-app.title("🧮 PC Distribution Converter (MySQL → NoSQL)")
+app.title("Pcs Distribution Converter (MySQL → NoSQL)")
 app.geometry("900x740")
 app.protocol("WM_DELETE_WINDOW", on_close)
 
@@ -204,7 +204,7 @@ main_frame.pack(fill="both", expand=True, padx=20, pady=20)
 # --- Title ---
 ctk.CTkLabel(
     main_frame,
-    text="🧮 PC Distribution Calculator",
+    text="Pcs Distribution Calculator",
     font=("Segoe UI", 24, "bold"),
     justify="center"
 ).pack(pady=(5, 15))
