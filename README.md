@@ -15,8 +15,6 @@ It tracks hourly performance (**A1–A8**), **NC (Not OK)**, and **Déchet (Wast
 ---
 
 ### 🖥️ Main Interface
-<img width="1126" height="957" alt="image" src="https://github.com/user-attachments/assets/56238f96-a108-4622-b61e-a73de4c43804" />
-
 ---
 
 ## ⚙️ Setup
